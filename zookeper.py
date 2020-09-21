@@ -137,3 +137,4 @@ while ex:
         print("There's no habitat with that number")
     else:
         print(animals[int(n)])
+
